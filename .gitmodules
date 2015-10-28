@@ -1,0 +1,3 @@
+[submodule "okirsch"]
+	path = okirsch
+	url = https://github.com/okirsch/KiCAD-Libs
